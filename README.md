@@ -36,6 +36,7 @@ The following is how some of the most important parts of the app was implemented
 </p>
 
 #Contributors
+
 @Savinwc
 @AshwinJenu
 
