@@ -28,7 +28,7 @@ The following is how some of the most important parts of the app was implemented
 * Hospital admin can confirm the user by selecting token and scanning face of the patient at the hospital if the face is not same it will show unrecognised face, if
   face is recognised user can go to the queue outside the relevant room.
 * Implemented a chatbot and admin dashboard to check doctor and patients details and appointments respectively.
-![WhatsApp Image 2023-04-08 at 16 21 37](https://user-images.githubusercontent.com/93364152/230717362-dff410e6-746f-49ed-93ed-40e3721e5a85.jpg)
+<img src=https://user-images.githubusercontent.com/93364152/230717362-dff410e6-746f-49ed-93ed-40e3721e5a85.jpg width=50% height=50%>
 ![WhatsApp Image 2023-04-08 at 16 21 38](https://user-images.githubusercontent.com/93364152/230717363-aef24b8f-42d4-4160-a66e-f82e3b8f4f2a.jpg)
 ![WhatsApp Image 2023-04-08 at 16 21 39](https://user-images.githubusercontent.com/93364152/230717364-977b3778-8ae8-4c2c-b0b1-2eb50faa9d9b.jpg)
 
