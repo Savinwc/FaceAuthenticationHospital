@@ -21,6 +21,16 @@ In android studio, go to File -> Import Project then choose this project folder 
 
 The following is how some of the most important parts of the app was implemented.
 
-* Sign-Up/Login using email address and password using firebase authentication as the backend. Unique id generated for each user account by FirebaseAuth is used    to  save user info (such as account details, and messages sent) in Firebase Realtime Database. (user's node is set as unique id).Face Authentication used by Google ML Kit
+* Face authentication consists both real time face detection as well as photo
+* Sign-Up/Login using email address and password using firebase authentication as the backend. Unique id generated for each user account by FirebaseAuth is used      to  save user info (such as account details, and messages sent) in Firebase Realtime Database. (user's node is set as unique id).Face Authentication used by Google ML Kit
  Face  data is stored in binary format in MS SQL Server.
-* 
+* User can book an appointment with the doctor concerned. A token number is generated and issued to the patient containing doctor room details and token number
+* Hospital admin can confirm the user by selecting token and scanning face of the patient at the hospital if the face is not same it will show unrecognised face, if
+  face is recognised user can go to the queue outside the relevant room.
+* Implemented a chatbot and admin dashboard to check doctor and patients details and appointments respectively.
+![WhatsApp Image 2023-04-08 at 16 21 37](https://user-images.githubusercontent.com/93364152/230717362-dff410e6-746f-49ed-93ed-40e3721e5a85.jpg)
+![WhatsApp Image 2023-04-08 at 16 21 38](https://user-images.githubusercontent.com/93364152/230717363-aef24b8f-42d4-4160-a66e-f82e3b8f4f2a.jpg)
+![WhatsApp Image 2023-04-08 at 16 21 39](https://user-images.githubusercontent.com/93364152/230717364-977b3778-8ae8-4c2c-b0b1-2eb50faa9d9b.jpg)
+
+
+
