@@ -33,7 +33,7 @@ The following is how some of the most important parts of the app was implemented
 <img src=https://user-images.githubusercontent.com/93364152/230717364-977b3778-8ae8-4c2c-b0b1-2eb50faa9d9b.jpg  width=20% height=20%>
 <img src=https://user-images.githubusercontent.com/93364152/230717607-a9abcbe0-50db-4a12-99a4-877c12b98042.jpg  width=20% height=20%>
 <img src=https://user-images.githubusercontent.com/93364152/230717614-e8ee7e48-dc9b-45e4-a0b6-704dc8a7dbfe.jpg  width=20% height=20%>
- </p>
+</p>
 
 
 
